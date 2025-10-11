@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EG1271A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "E-Switch", "EG1271A" (!) = "", "EG1271", "Other", "612-EG1271A", "https://www.mouser.co.uk/ProductDetail/E-Switch/EG1271A?qs=YXf4ACKMM4zsVCD8YMVB7w%3D%3D", "", "", "SLIDE, 300mA, 30VDC SPDT, On-On Through Hole", "https://configured-product-images.s3.amazonaws.com/2D/specs/EG1271A.pdf"
+END_PART
+
+END.

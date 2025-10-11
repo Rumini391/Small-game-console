@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model EG1271A
+#/251728/1792074/2.50/6/2/Switch
+DEF EG1271A S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "EG1271A" 1050 200 50 H V L CNN
+F2 "EG1271" 1050 100 50 H I L CNN
+F3 "https://configured-product-images.s3.amazonaws.com/2D/specs/EG1271A.pdf" 1050 0 50 H I L CNN
+F4 "SLIDE, 300mA, 30VDC SPDT, On-On Through Hole" 1050 -100 50 H I L CNN "Description"
+F5 "" 1050 -200 50 H I L CNN "Height"
+F6 "E-Switch" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "EG1271A" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "612-EG1271A" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/E-Switch/EG1271A?qs=YXf4ACKMM4zsVCD8YMVB7w%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X NC_1 1 1200 0 200 L 50 50 0 0 P
+X COM_1 2 1200 -100 200 L 50 50 0 0 P
+X NO_1 3 1200 -200 200 L 50 50 0 0 P
+X NC_2 4 0 0 200 R 50 50 0 0 P
+X COM_2 5 0 -100 200 R 50 50 0 0 P
+X NO_2 6 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

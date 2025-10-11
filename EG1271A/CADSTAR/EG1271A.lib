@@ -1,0 +1,18 @@
+.EG1271A :1 ;SLIDE, 300mA, 30VDC SPDT, On-On Through Hole
+EG1271
+*STM S
+*NGS
+*PLB 1="NC_1" 2="COM_1" 3="NO_1" 4="NC_2" 5="COM_2" 6="NO_2"
+*MXP 6
+*DFN EG1271A
+~!Manufacturer_Name (E-Switch)
+~!Manufacturer_Part_Number (EG1271A)
+~!Mouser Part Number (612-EG1271A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/E-Switch/EG1271A?qs=YXf4ACKMM4zsVCD8YMVB7w%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://configured-product-images.s3.amazonaws.com/2D/specs/EG1271A.pdf)
+~!Height (-)
+~!3D_Model (EG1271A)
+EG1271A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

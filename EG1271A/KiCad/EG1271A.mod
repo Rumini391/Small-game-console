@@ -1,0 +1,68 @@
+PCBNEW-LibModule-V1  2025-10-11 13:45:29
+# encoding utf-8
+Units mm
+$INDEX
+EG1271
+$EndINDEX
+$MODULE EG1271
+Po 0 0 0 15 68ea5169 00000000 ~~
+Li EG1271
+Cd EG1271 SLIDE SWITCH
+Kw Switch
+Sc 0
+At STD
+AR 
+Op 0 0 0
+T0 0 0 1.27 1.27 0 0.254 N V 21 N "S**"
+T1 0 0 1.27 1.27 0 0.254 N I 21 N "EG1271"
+DS -1.8 3.4 6.7 3.4 0.2 24
+DS 6.7 3.4 6.7 -0.1 0.2 24
+DS 6.7 -0.1 -1.8 -0.1 0.2 24
+DS -1.8 -0.1 -1.8 3.4 0.2 24
+DS -1.8 -0.1 -1.8 3.4 0.1 21
+DS 6.7 -0.1 6.7 3.4 0.1 21
+DS -1.8 -0.1 -1 -0.1 0.1 21
+$PAD
+Po 0 0
+Sh "1" C 1.3 1.3 0 0 900
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.5 0
+Sh "2" C 1.3 1.3 0 0 900
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 5 0
+Sh "3" C 1.3 1.3 0 0 900
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 3.2
+Sh "4" C 1.3 1.3 0 0 900
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.5 3.2
+Sh "5" C 1.3 1.3 0 0 900
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 5 3.2
+Sh "6" C 1.3 1.3 0 0 900
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$EndMODULE EG1271
+$EndLIBRARY

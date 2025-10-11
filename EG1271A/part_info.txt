@@ -1,0 +1,9 @@
+Manufacturer=E-Switch
+PartNumber=EG1271A
+PartCategory=Switch
+PackageCategory=Other
+PinCount=6
+Version=6.1
+Released=2016-01-04 07:58:43
+Downloaded=2025-10-11 13:45:29
+3D=Y

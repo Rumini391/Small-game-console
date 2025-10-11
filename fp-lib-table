@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Seeed Studio XIAO Series Library")(type "KiCad")(uri "${KIPRJMOD}/Seeed Studio XIAO Series Library")(options "")(descr ""))
   (lib (name "joystick")(type "KiCad")(uri "${KIPRJMOD}/joystick")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/EG1271A/KiCad")(options "")(descr ""))
 )
