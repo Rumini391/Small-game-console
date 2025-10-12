@@ -24,3 +24,5 @@ Example games:
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c1b9951e303d06d1452bed9894288e94003e3290_image.png)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4f5d480be5a4b4f0d040c0ab9693f9cab40e5e2e_image.png)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2b2a7fdbe79f0643519c5c61876ea29829ee05a3_image.png)
