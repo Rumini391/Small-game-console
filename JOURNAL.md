@@ -15,3 +15,11 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 Today I started designing the PCB in KiCad, the project started taking place in a more technical form, I imported all the neccessary modules and components, it took a bit time to make sure that all the footprints were okay. This is my **first time** designing a PCB, so I am learning alot as I go. Can't wait to move on to the next step and make the connections!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9aa53799ba748cebb8eb5658606ddf4f9212abb6/image.png)
   
 
+## 10/12/2025 - I finished the PCB  
+
+Today I finished designing the PCB of my game console. It took me a quite while learning how everything works. I double-checked all the connections, and made sure the power lines were clean. I can't wait for this design to actually exist as a physical board I can hold and test. This project taught me a lot about electronics design and patience. I can’t wait to assemble it. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1c87a70c7fcc9671e7585e728074bc97ac5c3f7d/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--dc66b244655a8e24753a380320d87a4bd8720654/image.png)
+
+  
+
