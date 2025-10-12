@@ -22,5 +22,8 @@ Today I finished designing the PCB of my game console. It took me a quite while 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--dc66b244655a8e24753a380320d87a4bd8720654/image.png)
 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--fa10c918dfd4135b6f6ebeae841bcfc221b275b4/image.png)
+
+
   
 
