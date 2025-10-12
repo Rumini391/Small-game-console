@@ -18,6 +18,8 @@ Example games:
 - Snake
 - Pong
 
+(I added a boilerplate code in the SOFTWARE CODE folder, I will code the games when I can test them with the xiao when it's phisically here)
+
 ## Photos
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c1b9951e303d06d1452bed9894288e94003e3290_image.png)
 
