@@ -27,3 +27,10 @@ Today I finished designing the PCB of my game console. It took me a quite while 
 
   
 
+## 10/13/2025 - Calculated and updated my github  
+
+I calculated the prices of the modules and organized everything into a bom.csv file with links. I also exported the 3d model of the pcb. I can really start to see how everything is coming together. I’m pretty excited because I’m getting closer to turning this little game console into reality.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg4MywicHVyIjoiYmxvYl9pZCJ9fQ==--0df602c237ba6165398411f992bb15d268213a33/image.png)
+  
+
