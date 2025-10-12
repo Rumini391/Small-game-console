@@ -13,7 +13,6 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 ## 10/11/2025 - Started designing PCB  
 
 Today I started designing the PCB in KiCad, the project started taking place in a more technical form, I imported all the neccessary modules and components, it took a bit time to make sure that all the footprints were okay. This is my **first time** designing a PCB, so I am learning alot as I go. Can't wait to move on to the next step and make the connections!![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9aa53799ba748cebb8eb5658606ddf4f9212abb6/image.png)
-![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--cfd717ce294cfb5c1a57efbde3961617c84331c3/image.png)
 
   
 
