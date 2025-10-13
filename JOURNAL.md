@@ -44,3 +44,10 @@ Today I found a cheap display and I wanted to make a cheap prototype to my proje
 
 The video of it: https://www.youtube.com/shorts/D4xRm9GQlY0  
 
+## 10/13/2025 10 PM - I realized something  
+
+I forgot that I should count in the price of the PCB too, I estimated the PCB to be $2 and the shipping $3 so in total the PCB will be around $5, I will update the bom.csv file, but when I filled the estimation in the "Ship it!" section I only said $48, so with this recalculation it would be $53.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--69963549f71d33a36bb121773add1fe614c1f509/image.png)
+  
+
