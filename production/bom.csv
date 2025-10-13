@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_1x07_P2.54mm_Vertical,1,Conn_01x07_Socket,
+S1,EG1271,1,EG1271A,
+SW1,SW_choc_v1_1u,1,SW_Push,
+"TP1, TP2",TestPoint_Pad_D4.0mm,2,TestPoint,
+U1,XIAO-ESP32C3-SMD-modified,1,XIAO-ESP32-C3-SMD,
+VR1,RKJXV1224005,1,RKJXV1224005,
