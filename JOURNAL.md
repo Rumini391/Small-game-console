@@ -51,3 +51,10 @@ I forgot that I should count in the price of the PCB too, I estimated the PCB to
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--69963549f71d33a36bb121773add1fe614c1f509/image.png)
   
 
+## 10/16/2025 - Research  
+
+I spent some time researching which free 3D software I should use to design the case. I ended up downloading FreeCad, and I will do the measurements later and try to model the case with the help of my friend. I will also have to think about if I want to use a plastic glass over the screen or no.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--49c0b00710eb568bf3150116125058ae56f24201/image.png)
+  
+
