@@ -58,3 +58,10 @@ I spent some time researching which free 3D software I should use to design the 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--49c0b00710eb568bf3150116125058ae56f24201/image.png)
   
 
+## 10/19/2025 - I started designing the case  
+
+I downloaded FreeCAD to design my case but I'm having a hard time learning it. As of now I am searching for the 3d models of the modules and I'm modelling those who have no available 3d models online. This program is pretty complicated for me unlike blender but with the help of my friend I will get the hang of it.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ3MywicHVyIjoiYmxvYl9pZCJ9fQ==--850bf24229976b5eef3051095383ee9f1e0be096/image.png)
+  
+
