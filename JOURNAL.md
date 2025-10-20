@@ -65,3 +65,14 @@ I downloaded FreeCAD to design my case but I'm having a hard time learning it. A
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ3MywicHVyIjoiYmxvYl9pZCJ9fQ==--850bf24229976b5eef3051095383ee9f1e0be096/image.png)
   
 
+## 10/20/2025 - I collected 3d models  
+
+I collected the 3d models of all the modules and put them on the 3d model of the pcb so I can see how it will look and I can start designing the case properly, I didn't find the model of my exact display but i found one that seems to be very very similiar in size
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--8511be40a4185daa9cf095dceb80cc6ba6c9960c/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNywicHVyIjoiYmxvYl9pZCJ9fQ==--77ee74a3f09f18b143d3546a2c8519085d18f7f0/image.png)
+
+  
+
