@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Small game console**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/379).
-
-
 ## 10/11/2025 - Started designing PCB  
 
 Today I started designing the PCB in KiCad, the project started taking place in a more technical form, I imported all the neccessary modules and components, it took a bit time to make sure that all the footprints were okay. This is my first time designing a PCB, so I am learning alot with tutorials and from my friend who is helping. The next step is to make the connections!
@@ -49,5 +45,44 @@ The video of it: https://www.youtube.com/shorts/D4xRm9GQlY0
 I forgot that I should count in the price of the PCB too, I estimated the PCB to be $2 and the shipping $3 so in total the PCB will be around $5, I will update the bom.csv file, but when I filled the estimation in the "Ship it!" section I only said $48, so with this recalculation it would be $53.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--69963549f71d33a36bb121773add1fe614c1f509/image.png)
+  
+
+## 10/16/2025 - Research  
+
+I spent some time researching which free 3D software I should use to design the case. I ended up downloading FreeCad, and I will do the measurements later and try to model the case with the help of my friend. I will also have to think about if I want to use a plastic glass over the screen or no.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--49c0b00710eb568bf3150116125058ae56f24201/image.png)
+  
+
+## 10/19/2025 - I started designing the case  
+
+I downloaded FreeCAD to design my case but I'm having a hard time learning it. As of now I am searching for the 3d models of the modules and I'm modelling those who have no available 3d models online. This program is pretty complicated for me unlike blender but with the help of my friend I will get the hang of it.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ3MywicHVyIjoiYmxvYl9pZCJ9fQ==--850bf24229976b5eef3051095383ee9f1e0be096/image.png)
+  
+
+## 10/20/2025 - I collected 3d models  
+
+I collected the 3d models of all the modules and put them on the 3d model of the pcb so I can see how it will look and I can start designing the case properly, I didn't find the model of my exact display but i found one that seems to be very very similiar in size
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--8511be40a4185daa9cf095dceb80cc6ba6c9960c/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNywicHVyIjoiYmxvYl9pZCJ9fQ==--77ee74a3f09f18b143d3546a2c8519085d18f7f0/image.png)
+
+  
+
+## 10/24/2025 - I designed the case  
+
+I finished designing the whole case, it is made out of 2 bodies, the bottom and the top of the case. After importing the 3d models of the modules it was easier and cleaner to model the case.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--62216612b374c1ffc724af119f09eea56c5ec443/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA5NywicHVyIjoiYmxvYl9pZCJ9fQ==--803caaa93ff082ec71709647302cee864bc2a1e7/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--ff7af5cfcd0075c1d0773952cfb07cb5d221abe6/image.png)
+
+
+
   
 
