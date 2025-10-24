@@ -32,6 +32,10 @@ I designed the 3D model of the case in FreeCad, it is made of 2 bodies, the bott
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2b2a7fdbe79f0643519c5c61876ea29829ee05a3_image.png)
 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--8511be40a4185daa9cf095dceb80cc6ba6c9960c/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNywicHVyIjoiYmxvYl9pZCJ9fQ==--77ee74a3f09f18b143d3546a2c8519085d18f7f0/image.png)
+
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--62216612b374c1ffc724af119f09eea56c5ec443/image.png)
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA5NywicHVyIjoiYmxvYl9pZCJ9fQ==--803caaa93ff082ec71709647302cee864bc2a1e7/image.png)
