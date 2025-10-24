@@ -72,7 +72,7 @@ I collected the 3d models of all the modules and put them on the 3d model of the
 
   
 
-## 10/24/2025 - I designed the case  
+## 10/24/2025 5:06 PM - I designed the case  
 
 I finished designing the whole case, it is made out of 2 bodies, the bottom and the top of the case. After importing the 3d models of the modules it was easier and cleaner to model the case.
 
@@ -84,5 +84,12 @@ I finished designing the whole case, it is made out of 2 bodies, the bottom and 
 
 
 
+  
+
+## 10/24/2025 5:47 PM - I recalculated prices cleaner and updated the bom  
+
+I recalculated so I only have to order from 3 sites, also recalculated the prices and since some special offers are no longer available the price went up. I updated the bom,csv file with everything.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--8dc22adf8af2c4f3daa85444a2f16a18813284eb/image.png)
   
 
