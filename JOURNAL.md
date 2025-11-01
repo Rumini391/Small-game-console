@@ -93,3 +93,10 @@ I recalculated so I only have to order from 3 sites, also recalculated the price
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--8dc22adf8af2c4f3daa85444a2f16a18813284eb/image.png)
   
 
+## 11/1/2025 - I ordered everything  
+
+I ordered every module and the PCB. I originally ordered the XIAO microcontroller from the SpeedStudio website but they didn't accept my order because of the card I guess. They refunded the money so I ordered the XIAO from aliexpress just like the other modules.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6f5bc9e96ecdd14b7273e2c5cfef838fca4003b9/image.png)
+  
+
